@@ -888,7 +888,7 @@ void JobWindow::initialiseAutopickWindow()
 
 	tab4->end();
 	tab5->begin();
-	tab5->label("Refs 2");
+	tab5->label("Autopicking");
 	resetHeight();
 
 	place("threshold_autopick");
